@@ -1,0 +1,40 @@
+tree
+.
+├── Arena
+├── Arena.cpp
+├── Arena_counter
+├── Arena_counter.cpp
+├── AtomicClashes.hpp
+├── AtomicClashes_counter.hpp
+├── BUILD_FIX_DOCUMENTATION.md
+├── BaseConformation.hpp
+├── BondLengths.hpp
+├── Examples
+│   ├── 2koc.pdb
+│   ├── 2n3q.pdb
+│   ├── 5osg2.P.pdb
+│   ├── 5osg2.index
+│   ├── 5osg2.pdb
+│   ├── 6sg9CA.index
+│   └── 6sg9CA.pdb
+├── GeometryTools.hpp
+├── INF.py
+├── IdealRNA
+│   ├── 224.rna.pdb
+│   ├── ACGU.rna.pdb
+│   └── createIdealRNA2.py
+├── IdealRNA.hpp
+├── Makefile
+├── MissingRNAatom.hpp
+├── PDBParser.hpp
+├── README.md
+├── Superpose.hpp
+├── calculate_MAE.py
+├── calculate_RMSD.py
+├── cssr.hpp
+├── model_hub.txt
+├── pstream.h
+└── split_models.py
+
+3 directories, 33 files
+
